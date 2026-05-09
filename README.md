@@ -1,7 +1,9 @@
 # 🚲 Divvy Bike-Share Data Analysis - Google Data Analytics Capstone
 
 ## 📌 Project Overview
-This project is the Capstone for the **Google Data Analytics Professional Certificate**. It focuses on analyzing the historical trip data of Cyclistic (Divvy), a bike-share company in Chicago, to understand how casual riders and annual members use the bikes differently.
+This project is the Capstone for the **Google Data Analytics Professional Certificate**. It focuses on analyzing the historical trip data of Cyclistic (Divvy), a bike-share company in Chicago, to understand how casual riders and annual members use the bikes differently. You can view the live notebook, interactive charts, and run the code directly in your browser without any setup:
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-008bb9?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/chuyenhocielts/google-data-analytics?scriptVersionId=317772236)
 
 The insights generated from this analysis aim to help the marketing team design targeted strategies to convert casual riders into profitable annual members.
 
